@@ -39,7 +39,7 @@ I enjoy solving tricky technical problems, building reusable tools that save tea
 
 - 💼 LinkedIn: _add your link_
 - 📧 Email: _add your email_
-- 🌍 Portfolio: https://usufsk98.github.io
+- 🌍 Portfolio: https://yousufkhan.framer.website
 
 ---
 
