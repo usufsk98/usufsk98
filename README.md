@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/93706912?v=4" width="160" alt="Yousuf" />
+</p>
+
+<h1 align="center">Hi, I'm Yousuf 👋</h1>
+
 **Unity Game Developer** with 5+ years of experience building, shipping and leading game development pipelines in **C#**.
 
 I enjoy solving tricky technical problems, building reusable tools that save teams time, and writing clean, maintainable gameplay and systems code.
@@ -43,11 +49,7 @@ I enjoy solving tricky technical problems, building reusable tools that save tea
 
 - 💼 LinkedIn: _add your link_
 - 📧 Email: _add your email_
-- 🌍 Portfolio: https://yousufkhan.framer.website
-
----
-
-<sub>⭐ If one of my tools saves you time, a star on the repo is much appreciated!</sub>
+- 🌍 Portfolio: https://usufsk98.github.io
 
 ---
 
